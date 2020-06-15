@@ -1,0 +1,26 @@
+h1{color: brown
+    /* type d'histoires */;}
+
+header{
+        background-color:teal;
+        font-size:2em
+        font-weight:bold; >gras<
+        padding:5px 10px;
+        color:white;
+        }
+p{
+    color :rgb(47, 0, 255);
+}
+
+.para1 {
+    color: crimson;
+}
+
+span{
+    color: darkmagenta;
+    font-weight:bold
+}
+
+#class2 {
+    color: black ;
+}
